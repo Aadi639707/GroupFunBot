@@ -3,7 +3,7 @@ from telebot import types
 import random
 
 # Aapka sahi wala token yahan hai
-API_TOKEN = '8273081654:AAFyU5699_7S-LzSRE4pI6kYI9F6Y96G8U' 
+API_TOKEN = '8273081654:AAFyU56FG3PV5ohPMVk5EOqQuCKjnUO-DWc' 
 bot = telebot.TeleBot(API_TOKEN)
 
 # Chatbot status control
